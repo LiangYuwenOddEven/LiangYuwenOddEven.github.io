@@ -4,13 +4,200 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2024/04/21/hello-world/"/>
-    <url>/2024/04/21/hello-world/</url>
+    <title>8 不确定性与叠加态</title>
+    <link href="/2024/04/19/8-%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E4%B8%8E%E5%8F%A0%E5%8A%A0%E6%80%81/"/>
+    <url>/2024/04/19/8-%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E4%B8%8E%E5%8F%A0%E5%8A%A0%E6%80%81/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="不确定性与叠加态"><a href="#不确定性与叠加态" class="headerlink" title="不确定性与叠加态"></a>不确定性与叠加态</h1><p>在电子的双缝实验中，观测到了干涉条纹。</p><p>如果把电子当成粒子，打出去<strong>一个</strong>电子，它在穿过缝的时候，<strong>既出现在</strong>了左侧缝，<strong>又出现在</strong>了右侧缝。</p><p>电子难道<strong>同时存在</strong>于两道缝上吗？</p><p>我们并不知道“电子”真正的样子，不知道电子在穿过双缝时到底是什么样的状态。</p><p>当我们把电子打向双缝时，接收板上的干涉条纹告诉我们，电子是“波”。这个“波”的含义是：波所覆盖的范围都是电子<strong>会（可以、能够）</strong>出现的地方，但具体在哪个位置是<strong>不知道、不确定</strong>的。</p><p>如何描述不确定的状态？—— <strong>概率</strong>。</p><p>“电子在哪个缝”这个<strong>客观现实还没有出现</strong>，所以把所有还没有发生但可能发生的事件都叠加起来，总称为<strong>叠加态</strong>。</p><p>此时，电子就处于这种<strong>叠加态</strong>。</p><p>将监测器置于缝口，追踪到了电子的位置，“电子在哪个缝”这个<strong>客观现实100%发生了。</strong></p><p>此时，电子从<strong>叠加态坍缩</strong>到了某一个具体现实。坍缩就发生在监测器测量出电子位置的那一刻。</p><p>小结：外界测量会使不确定的<strong>叠加态坍缩</strong>到了某一个具体现实。</p><p>你有没有想到什么? 喵~ 🐈‍⬛</p>]]></content>
     
     
+    <categories>
+      
+      <category>量子力学入门知识</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>II 塑造认知——理解量子概念</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>7 波粒二象性：从光到电子</title>
+    <link href="/2024/04/19/7-%E6%B3%A2%E7%B2%92%E4%BA%8C%E8%B1%A1%E6%80%A7%EF%BC%9A%E4%BB%8E%E5%85%89%E5%AD%90%E5%88%B0%E7%94%B5%E5%AD%90/"/>
+    <url>/2024/04/19/7-%E6%B3%A2%E7%B2%92%E4%BA%8C%E8%B1%A1%E6%80%A7%EF%BC%9A%E4%BB%8E%E5%85%89%E5%AD%90%E5%88%B0%E7%94%B5%E5%AD%90/</url>
+    
+    <content type="html"><![CDATA[<h1 id="波粒二象性：从光到电子"><a href="#波粒二象性：从光到电子" class="headerlink" title="波粒二象性：从光到电子"></a>波粒二象性：从光到电子</h1><p>关于光的波粒之争早在牛顿时代就开始了。牛顿认为光是粒子，同时期的惠更斯认为光是波。两种观点都能解释一些光学现象（比如，粒子和波都能折射和反射）。此后两种学说不相上下，直到1807年托马斯·扬的双缝干涉实验和1865年麦克斯韦的电磁波理论以及1866年赫兹的电磁波探测才“证实”了光是波的理论。随后，“光是波”就成了学界主流，绝对真理。然而，1900年，普朗克提出了<strong>光量子假设</strong>，1905年爱因斯坦通过严谨的推算，向世人证实了光是粒子。自此，人们对光的认识被带入了一个新的困境（or, 一个新的开始）。</p><p>似乎，唯一的解释就是，光既是波又是粒子。</p><aside><img src="https://www.notion.so/icons/chart-alternate_gray.svg" alt="https://www.notion.so/icons/chart-alternate_gray.svg" width="40px" /> **光的双缝干涉实验**<p>打一束光穿过两道细缝，在后方的接收板上会出现明暗相间的条纹。这证明了光的波动性（波峰相遇为明条纹，波谷相遇为暗条纹）。</p><p><img src="/images/%E5%85%89%E7%9A%84%E5%8F%8C%E7%BC%9D%E5%B9%B2%E6%B6%89.svg" alt="pics" title="光的双缝干涉"></p></aside><aside><img src="https://www.notion.so/icons/chart-alternate_gray.svg" alt="https://www.notion.so/icons/chart-alternate_gray.svg" width="40px" /> **电子的双缝干涉实验**<p>把上述实验中的光源换成电子，用发射枪把电子一粒一粒地往前方打过去。按理说，电子要么会穿过左侧缝打在左侧，要么会穿过右侧缝打在右侧，最终形成两片区域。</p><p><img src="/images/%E7%94%B5%E5%AD%90%E5%8F%8C%E7%BC%9D%E5%B9%B2%E6%B6%89.svg" alt="pics" title="电子双缝干涉"></p><p><em><strong>注意</strong></em> 电子非常小，速度非常高，肉眼看不到，电子从射出到抵达接收板，中间这段距离我们是<strong>不知道它在哪里</strong>，也<strong>不知道它是怎么穿过双缝的</strong>。</p><p>随着数量的增加，怪异的是，电子似乎是有选择性地避开了一些地方，然后又击中了一些地方，最终形成了明暗相间的规律。这种分布非常像光的干涉条纹。</p><p>接下来，科学家们分别在缝口处放了两个监测器，用来追踪从缝里打出来的电子。</p><p>诡异的事情发生了。此时，干涉条纹居然消失了！接收板上是原先预期的结果——两道条纹。</p></aside><p>没有监测器：出现干涉条纹，证明电子可能是波；有探测器：没有干涉条纹，证明电子是粒子。</p><p>难道，打出去的电子知道自己被追踪了，所以改变了自己的行为方式吗？</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>量子力学入门知识</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>II 塑造认知——理解量子概念</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>6 光电效应与光子的诞生</title>
+    <link href="/2024/04/19/6-%E5%85%89%E7%94%B5%E6%95%88%E5%BA%94%E4%B8%8E%E5%85%89%E5%AD%90%E7%9A%84%E8%AF%9E%E7%94%9F/"/>
+    <url>/2024/04/19/6-%E5%85%89%E7%94%B5%E6%95%88%E5%BA%94%E4%B8%8E%E5%85%89%E5%AD%90%E7%9A%84%E8%AF%9E%E7%94%9F/</url>
+    
+    <content type="html"><![CDATA[<h1 id="光电效应与光子的诞生"><a href="#光电效应与光子的诞生" class="headerlink" title="光电效应与光子的诞生"></a>光电效应与光子的诞生</h1><blockquote><p>当光照射到金属表面时，就把金属中的电子“打”了出来，电子移动，就形成了电流。这种现象叫做<strong>光电效应</strong>。</p><p><em>可是，光为什么能把电子“打”出来呢？</em></p><p>1905年，<strong>爱因斯坦</strong>在一篇论文（<strong>《关于光产生和转变的一个启发性观点》</strong>）中给出了他的解释。更重要的是，他为普朗克的量子假设提供了现实意义，并触发了<strong>一场人类史上的科学革命</strong>。</p></blockquote><p><img src="/images/%E5%85%89%E7%94%B5%E6%95%88%E5%BA%94.svg" alt="pics" title="光电效应"></p><p>当时的认识是，电磁波的能量是连续的，如果你一直照射金属块，能量就持续地照射到金属块里。金属块里的电子持续吸收这些能量，就会变得“活跃”；当电子拥有了足够的能量能脱离金属束缚，就会从金属中逃逸出来。</p><p>我们的直观感受是，光强越强，打出来的电子越多，电流越强；反之，光强越弱，电流越弱。可实验表明，能否产生光电效应和和光强无关（人话版：打不打的出电子和光亮不亮无关），而是和光的频率有关。</p><p>爱因斯坦受到普朗克假设的启发，提出一份能量（a quantum of energy）其实代表着一份能量包&#x2F;块（packets of energy）。也就是说，光其实是有一份份能量包构成的，光其实是粒子。</p><p>爱因斯坦进一步指出，这些能量包的大小只和光的频率有关。频率低的光，单个包的能量就少；而频率高的光，单个包得到能量就大。增加光强，实际上相当于增加了包的个数。而光带效应的过程，可以理解为一个个能量包打在金属上，试图“拉动”电子，并且是“葫芦娃救爷爷”，一个一个轮流上，不是一起上。所以用频率很低的光，再怎么增加光强也无法产生光电效应。反之，如果用频率高的光，即使减小光强，也能发生光电效应。</p><p><strong>小结</strong>：爱因斯坦认为，光是以一量子为单位的能量包，而能量包的大小取决于光的频率。爱因斯坦将这种能量包称为<strong>光的量子</strong>，简称<strong>光子</strong>（photon）。</p><p>这些发现在当时具有很大的颠覆性，因为在当时，光（电磁波）的<strong>波动性质</strong>早已在实验和理论上被双重论证过了。</p><p><em>光到底是波还是粒子呢？</em></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>量子力学入门知识</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>II 塑造认知——理解量子概念</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>5 普朗克与能量量子化</title>
+    <link href="/2024/04/19/5-%E6%99%AE%E6%9C%97%E5%85%8B%E4%B8%8E%E8%83%BD%E9%87%8F%E9%87%8F%E5%AD%90%E5%8C%96/"/>
+    <url>/2024/04/19/5-%E6%99%AE%E6%9C%97%E5%85%8B%E4%B8%8E%E8%83%BD%E9%87%8F%E9%87%8F%E5%AD%90%E5%8C%96/</url>
+    
+    <content type="html"><![CDATA[<h1 id="普朗克与能量量子化"><a href="#普朗克与能量量子化" class="headerlink" title="普朗克与能量量子化"></a>普朗克与能量量子化</h1><aside>📜 17世纪，牛顿创造了一个矩阵，一个范式，一个定义体系、定义框架（matrix）—— 牛顿力学体系。<p>此后，几乎任何物理公式的推导，追溯起源几乎都离不开牛顿三大定律。</p><p>所以自然而然，所有科学家思考的出发点都在这个体系之内。</p><p>要解决乌云问题只有两种途径，要么沿着前人铺就得道路继续探索下去，完善既有物理体系；要么当前的认知体系从一开始就不适用，导致我们从头一路就错了下去。</p></aside><p>就在人们百思不得其解时，<strong>普朗克</strong>站了出来，做出了大胆的尝试。</p><p><a href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E6%99%AE%E6%9C%97%E5%85%8B">https://zh.wikipedia.org/wiki/马克斯·普朗克</a></p><p>普朗克提出了一个假设。</p><p>他的假设，脱离了原来的体系，与当代认知是如此的矛盾冲突，但却完美地解决了紫外灾难。</p><p>原有体系：</p><ul><li>能量是连续的（continuous）</li></ul><p>（长度、质量、速度、温度、能量）</p><ul><li><p>连续的物理量可以取任意的值</p><p>  （任何数值都是有意义的）</p></li></ul><p>普朗克假设的体系：</p><ul><li>电磁波在传播时，能量是不连续的，是离散的（discrete）；一份能量（a <strong>quantum</strong> of energy）就是“<strong>量子</strong>”（<strong>quantum</strong>），是一种特定的量词单位</li><li>能量只能取特定的值，期间的值是没有意义的</li></ul><p>普朗克的假设完美解决了紫外灾难，说明客观自然界中一定存在着某种规律没有被人类所发现，而且这种规律很可能超过了当代物理的理解范畴。这个规律，即将在五年后被一个人所揭晓… ✨ tbd.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>量子力学入门知识</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>I 开启旅程——重新认识光</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>4 紫外灾难</title>
+    <link href="/2024/04/19/4-%E7%B4%AB%E5%A4%96%E7%81%BE%E9%9A%BE/"/>
+    <url>/2024/04/19/4-%E7%B4%AB%E5%A4%96%E7%81%BE%E9%9A%BE/</url>
+    
+    <content type="html"><![CDATA[<h1 id="紫外灾难"><a href="#紫外灾难" class="headerlink" title="紫外灾难"></a>紫外灾难</h1><p><em>“动力理论肯定了热和光是运动的两种方式，现在，它的美丽而晴朗的天空却被两朵乌云笼罩了。”</em> —— 开尔文</p><p>20世纪初，物理学家们为了研究电磁波，模拟了一个“人造太阳” —— 一个加热后的空心金属块。金属块外面凿了一个孔，然后收集从孔里发射出来的光（电磁波）并测量这些光的能量。</p><p>实验物理学家收集到了这些数据，接下来就需要理论物理学家去推导出一个理论公式来解释电磁波长和能量之间的关系。可无论如何都无法推导出一个符合实验数据的公式，特别是在紫外波长部分，公式推导出的能量居然趋于了无穷大！科学家们称该现象为“紫外灾难”。</p><p><img src="/images/%E7%B4%AB%E5%A4%96%E7%81%BE%E9%9A%BE.svg" alt="pics" title="紫外灾难"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>量子力学入门知识</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>I 开启旅程——重新认识光</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>3 光与电磁波</title>
+    <link href="/2024/04/19/3-%E5%85%89%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/"/>
+    <url>/2024/04/19/3-%E5%85%89%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="光与电磁波"><a href="#光与电磁波" class="headerlink" title="光与电磁波"></a>光与电磁波</h1><ul><li>启蒙运动后，欧洲迎来了科学时代。物理学家门设计了巧妙的实验，来探索无形无体的光的性质。</li><li>几个重要的发现：<ol><li>光在真空中传播的速度是个常量，约为30万千米每秒。</li><li>电和磁之间存在某种关联（例如，切割磁感线会产生电流）。</li><li>1865年，麦克斯韦提出了<strong>电磁场理论</strong>。</li></ol></li></ul><blockquote><p><strong>场</strong>（field）是一个以时空为变量的物理量。<strong>空间中</strong>弥漫着的<strong>基本相互作用</strong>被命名为“场”。<br><strong>电磁场</strong>（electromagnetic field）是由带电粒子的运动而产生的一种物理场。静止的电荷会产生静电场；静止的磁偶极子会产生静磁场。运动的电荷形成电流，会产生电场和磁场。电场和磁场互相垂直，统称为<strong>电磁场</strong>。电磁场对电荷产生力，以此可以检测电磁场的存在。一个振荡中的电场会产生振荡的磁场，而一个振荡中的磁场又会产生振荡的电场，这样子，这些连续不断同相振荡的电场和磁场共同地形成了<strong>电磁波</strong>（electromagnetic wave）。</p><p><img src="/images/%E7%94%B5%E7%A3%81%E6%B3%A2.png" alt="pics" title="电磁波"></p></blockquote><p>麦克斯韦计算出电磁波的传播速度与光速几乎一样，由此推论，光就是电磁波。</p><p>后来，赫兹通过实验探测到了电磁波的存在，证实了麦克斯韦的猜想。</p><ul><li>19世纪，人们探测到了更多自然中存在的电磁波，并由此绘制出了光谱图。</li></ul><p><img src="/images/%E5%85%89%E8%B0%B1%E5%9B%BE.jpg" alt="pics" title="光谱图"></p><ul><li>20世纪初，有物理学家认为，对光的研究已经走到了尽头… ☁️ tbd.</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>量子力学入门知识</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>I 开启旅程——重新认识光</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2 牛顿眼里的光</title>
+    <link href="/2024/04/19/2-%E7%89%9B%E9%A1%BF%E7%9C%BC%E9%87%8C%E7%9A%84%E5%85%89/"/>
+    <url>/2024/04/19/2-%E7%89%9B%E9%A1%BF%E7%9C%BC%E9%87%8C%E7%9A%84%E5%85%89/</url>
+    
+    <content type="html"><![CDATA[<h1 id="牛顿眼里的光"><a href="#牛顿眼里的光" class="headerlink" title="牛顿眼里的光"></a>牛顿眼里的光</h1><p>🌈牛顿与光的色散实验</p><ul><li>1666年，牛顿做了一个实验。他让太阳光穿过一个三棱镜，结果发现，纯色的白光被分解成了五彩斑斓的彩虹色。原来，我们看到的日光其实是由这些单色光“混合”而成的。三棱镜让日光发生了不同角度的<strong>折射</strong>，被分解成了<strong>单色光</strong>。牛顿时代后，人们对光的理解就深了一层。原先人们只能看到表象，自此才认识到原来太阳光是多种颜色的光复合而成的。<br><img src="/images/%E5%85%89%E7%9A%84%E8%89%B2%E6%95%A3.gif" alt="pics" title="光的色散"></li><li>太阳从东边升起，这时太阳光要到达你的眼睛，要穿过厚厚的大气层。但是不同颜色的光的“穿透力”不同，比如蓝紫光的穿透力较弱，所以遇到大气层中的微粒时，传播方向会发生改变；穿过大气的距离越长，越多蓝紫光的方向被改变，到最后，几乎没有蓝紫光能到达我们的眼睛了。而红光穿透力较强，不容易被改变方向，最后只有这部分的光能抵达我们的眼睛，所以我们看到初升的太阳是“红日”。正午时分，太阳光所需要穿过的大气层最薄，所有光都能到达我们的眼睛，所以正午的太阳亮得发白，是“白日”。在地球上看天空是蓝色的，因为蓝光穿透力弱，在穿越大气层时不停地发生方向改变，即<strong>光的散射现象</strong>，所以被留在了大气层中。</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>量子力学入门知识</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>I 开启旅程——重新认识光</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>1 神说要有光</title>
+    <link href="/2024/04/19/1-%E7%A5%9E%E8%AF%B4%E8%A6%81%E6%9C%89%E5%85%89/"/>
+    <url>/2024/04/19/1-%E7%A5%9E%E8%AF%B4%E8%A6%81%E6%9C%89%E5%85%89/</url>
+    
+    <content type="html"><![CDATA[<h1 id="神说要有光"><a href="#神说要有光" class="headerlink" title="神说要有光"></a>神说要有光</h1><h2 id="光——精神层面的意象-（5世纪-15世纪）"><a href="#光——精神层面的意象-（5世纪-15世纪）" class="headerlink" title="光——精神层面的意象 （5世纪-15世纪）"></a>光——精神层面的意象 （5世纪-15世纪）</h2><aside>🕊️ 中世纪的欧洲，《圣经》是大众获取知识、认识世界的唯一途径。</aside><ul><li><p>“神说要有光，于是就有了光” —— 光是神的创造，象征着神圣、圣洁、美好、恩惠。</p></li><li><p>黑暗中的一缕阳光会给人们带来希望的寓意 —— “神没有抛弃你”</p></li><li><p>诺亚一家登上新大陆，上帝降下彩虹，代表神的承诺：“我与你们立约：凡有血肉的，以后决不再受洪水湮灭，再没有洪水来毁灭大地。“ —— 《创世纪9:11》</p><p>  千年来，人们对光的认识，就停留在这类精神层面上的意象。</p></li></ul><aside>🌅 文艺复兴、宗教改革、启蒙运动 —— 激发了人的自我理性</aside><ul><li>一批又一批的求知者们为了获得更多的知识，开始通过各种途径进行探寻。有的人继续在精神层面上求索，而有的人，则把目光转向了物质层面……</li><li>1643年， 🍎 🌈 … tbd.上</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>量子力学入门知识</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>I 开启旅程——重新认识光</tag>
+      
+    </tags>
     
   </entry>
   
